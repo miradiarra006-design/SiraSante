@@ -32,3 +32,8 @@ Non definis
 Les principaux canaux de communication et de collaboration de l'équipe sont :
 •	WhatsApp : pour les échanges, les discussions, le partage d'informations et la coordination des activités de l'équipe.
 •	GitLab : pour la gestion du code source, le suivi du développement et le travail collaboratif sur le projet.
+5.Équipe pour le premier sprint :
+.	Seydou Samaké – Product Owner (PO)
+.	Nahawa Sanogo – Scrum Master (SM)
+.	Mariam Diarra – Développeuse
+.	Khadija Diarra – Développeuse
